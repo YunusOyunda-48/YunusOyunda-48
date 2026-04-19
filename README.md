@@ -1,25 +1,32 @@
-<h1 align="center">Selam, ben Yunus 👾</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=Discord+Bot+Geliştiricisi;Siber+Güvenlik+ile+Uğraşıyorum;Otomasyon+ve+Özel+Sistemler+Geliştiriyorum;Freelance+Yazılım+Projeleri+Alıyorum" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff41&height=200&section=header&text=Yunus%20Terminal&fontColor=00ff41&fontSize=40&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/8Km9tLL.gif" width="500" alt="cyber gif" />
-</p>
+<h1 align="center">> Selam, ben Yunus 👾</h1>
 
 <p align="center">
-  Kod, otomasyon, güvenlik ve özel sistemler üzerine çalışıyorum. <br>
-  Discord botları geliştiriyor, freelance projeler alıyor ve siber güvenlikle ilgileniyorum.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00FF41&center=true&vCenter=true&width=800&lines=Discord+Bot+Developer;Cyber+Security+Enthusiast;Automation+Systems+Builder;Freelance+Projects+Available" />
 </p>
 
 ---
 
-## `whoami`
+## 🧠 `whoami`
 
 ```bash
-> user: Yunus
-> role: Discord Bot Developer / Freelancer
-> interest: Cyber Security, Automation, Custom Systems
+> user: yunus
+> role: developer
+> focus: discord bots / automation / security
+> status: available for freelance
 > contact: ustayemre
-> status: online
+⚙️ skills
+<p> <img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,linux,html,css,mysql,git" /> </p>
+💻 services
+🤖 Custom Discord Bots
+🛡️ Security & Guard Systems
+📜 Moderation / Log / Ticket Systems
+🔗 API & Automation Projects
+⚡ Fast & optimized solutions
+📊 stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YunusOyunda-48&show_icons=true&theme=chartreuse-dark&hide_border=true" height="170" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YunusOyunda-48&theme=chartreuse-dark&hide_border=true" height="170" /> </p>
+📡 connect
+Discord: ustayemre
