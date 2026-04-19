@@ -18,6 +18,8 @@
 > focus: discord bots / automation / security
 > status: available for freelance
 > contact: ustayemre
+```
+
 ⚙️ skills
 <p> <img src="https://skillicons.dev/icons?i=js,nodejs,python,bash,linux,html,css,mysql,git" /> </p>
 💻 services
